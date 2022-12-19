@@ -1969,8 +1969,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "40-garys-office",
-      "name": "Gary's Office",
+      "id": "40-marinas-office",
+      "name": "Marina's Office",
       "levels": [
         {
           "tileSize": 256,
